@@ -2,4 +2,5 @@
 
 Introduction
 
-1. Local Development
+# Local Development
+1. Open in your browser.
